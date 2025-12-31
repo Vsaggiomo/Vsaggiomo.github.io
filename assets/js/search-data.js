@@ -543,7 +543,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@youtube.com@vsaggiomo", "_blank");
+          window.open("https://youtube.com/@youtube.com@v_saggiomo", "_blank");
         },
       },{
       id: 'light-theme',
