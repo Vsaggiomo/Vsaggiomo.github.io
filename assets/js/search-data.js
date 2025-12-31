@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -536,7 +529,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@v_saggiomo", "_blank");
+          window.open("https://youtube.com/@@v_saggiomo", "_blank");
         },
       },{
       id: 'light-theme',
