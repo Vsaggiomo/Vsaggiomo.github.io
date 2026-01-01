@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.wur.nl/en/chair-groups/biomolecular-sciences/bionanotechnology'>Associate Professor @ BioNanoTechnology Dept</a> - Chemistry - Open Hardware Advocate - Lab Hacker 
+subtitle: <a href='https://www.wur.nl/en/chair-groups/biomolecular-sciences/bionanotechnology'>Associate Professor @ BioNanoTechnology</a> - Chemistry - Open Hardware Advocate - Lab Hacker 
 
 profile:
   align: right
