@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching and Outreach - Cultivating the "Maker" Scientist"
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,7 +18,7 @@ nav_order: 6
     </div>
 </div>
 
-## A Vision for the Next Generation of Scientists
+### A Vision for the Next Generation of Scientists
 
 My personal vision for teaching is centered on stimulating creativity and critical thinking while providing students the freedom to explore curiosity-driven questions. I see high-quality scientific knowledge as a "toolset", a framework that is necessary, but only useful when applied to problem-solving. In my view, the modern scientist should be a polymath; it is no longer enough to understand a chemical process; one must also know how to **3D design, 3D print, and program microcontrollers to build the sensors and devices** required to measure that process.
 I align my course with the Wageningen University & Research (WUR) mission to explore the potential of nature to improve quality of life. My teaching exists at the intersection of Molecular Lifescience, Biotechnology, Sensing, and Society, training students to develop sensors that track food safety, environmental changes, and health.
@@ -35,7 +35,7 @@ I align my course with the Wageningen University & Research (WUR) mission to exp
     </div>
 </div>
 
-## Undergraduate Innovation: The "Open Protocol" Approach 
+### Undergraduate Innovation: The "Open Protocol" Approach 
 
 In my "Sensors and Devices" course, I have moved away from the traditional "cookbook" style of laboratory education.
 
@@ -57,7 +57,7 @@ In my "Sensors and Devices" course, I have moved away from the traditional "cook
     </div>
 </div>
 
-## Postgraduate & Professional Training: The DIY Lab
+### Postgraduate & Professional Training: The DIY Lab
 
 For PhD students and professionals, I bridge the gap between "Open Science" theory and "Open Hardware" practice. Many researchers find themselves limited by commercial equipment that is either too expensive or not optimized for their specific needs.
 
@@ -75,7 +75,7 @@ For PhD students and professionals, I bridge the gap between "Open Science" theo
     </div>
 </div>
 
-## Public Outreach: for the next generation of scientists
+### Public Outreach: for the next generation of scientists
 
 Science communication is most effective when it is tactile and visual. I use the "Lycurgus Cup" effect to engage the public in the wonders of nanotechnology.
 
